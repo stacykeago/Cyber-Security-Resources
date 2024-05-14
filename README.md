@@ -26,4 +26,5 @@
 24. OffSec Proving Grounds [FREE/PAID]  [https://offsec.com/labs/individual/]
 25. Cybersucurity books [https://drive.google.com/drive/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL]
 26. Ethical hacking [https://www.youtube.com/watch?v=fNzpcB7ODxQ&ab_channel=TheCyberMentor]
-27. 
+27. CISCO Cyber Security [https://skillsforall.com/launch?id=dc0847b7-d6fc-4597-bc31-38ddd6b07a2f&tab=curriculum&view=85ac3a97-7f9d-547f-8ca6-a7161c819b4b]
+28. 
